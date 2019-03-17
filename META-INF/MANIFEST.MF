@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/gson-2.8.5.jar lib/guava-26.0-jre.jar
+Main-Class: io.github.littoil.extractMCAssets.extractMCAssets
+
